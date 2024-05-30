@@ -1,7 +1,9 @@
 Acceptanstester
 
 
+
 Mål: Skriva ut korrekta uträkningar i alla fyra räknesätt
+
 
 • Tryck på 1 för att genomföra addition, tryck på enter
 
@@ -15,13 +17,17 @@ Mål: Skriva ut korrekta uträkningar i alla fyra räknesätt
 
 
 
+
 Mål: Skriva ut historiken på alla uträkningar
+
 
 • När första acceptanstestet är genomfört tryck då på 5 följt av enter för att få fram en lista på alla uträkningar du gjort i programmet dittils. Listan ska skrivas ut i konsolfönstret.
 
 
 
+
 Mål: Avsluta programmet
+
 
 • Om listan med historik skrivs ut korrekt kan du trycka på 6 följt av enter för att avsluta programmet. Konsolfönstret ska då stängas ner. Detta är programmets sista funktion.
 
