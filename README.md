@@ -13,7 +13,7 @@ Mål: Skriva ut korrekta uträkningar i alla fyra räknesätt
 
 • Nu ska uträkningen skrivas ut i konsolfönstret
 
-• Repetera dessa steg för de andra räknesätten genom att i första steget trycka in 2 för subtration, 3 för multiplikation, och 4 för division.
+• Repetera dessa steg för de andra räknesätten genom att i första steget trycka in 2 för subtrkation, 3 för multiplikation, och 4 för division.
 
 
 
